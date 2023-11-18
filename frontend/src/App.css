@@ -1,0 +1,35 @@
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.text{
+  width: 30cm;
+  height: 15cm;
+  color: white;
+  background-color: rgb(87, 122, 138);
+  
+}
+.text :hover{
+}
+
+.lang{
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.btn{
+  margin-top: 20px;
+}
+.output{}
